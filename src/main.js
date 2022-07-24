@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
-export default function templateName(value, options = {}) {
+export default function templateName(value) {
   return value
 }
