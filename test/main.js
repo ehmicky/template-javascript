@@ -2,5 +2,5 @@ import test from 'ava'
 import templateName from 'template-name'
 
 test('Dummy test', (t) => {
-  t.is(typeof templateName, 'function')
+  t.true(templateName(true))
 })
