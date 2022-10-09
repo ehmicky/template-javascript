@@ -13,7 +13,7 @@
   },
   "description": "template-description",
   "keywords": [],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "homepage": "https://www.github.com/ehmicky/template-name",
   "repository": "ehmicky/template-name",
   "bugs": {
