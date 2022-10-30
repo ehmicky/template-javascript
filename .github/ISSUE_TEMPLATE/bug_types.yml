@@ -24,9 +24,7 @@ body:
     attributes:
       label: Steps to reproduce
       description: |
-        Please copy a reproduction of the bug using the
-        [TypeScript playground](https://www.typescriptlang.org/play) or
-        [Bug workbench](https://www.typescriptlang.org/dev/bug-workbench).
+        Please reproduce the bug using the [TypeScript playground](https://www.typescriptlang.org/play) or [Bug workbench](https://www.typescriptlang.org/dev/bug-workbench), then paste the URL here.
     validations:
       required: true
   - type: textarea
