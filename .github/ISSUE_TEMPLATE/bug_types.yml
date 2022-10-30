@@ -1,4 +1,4 @@
-name: Bug (TypeScript types)
+name: Bug report (TypeScript types)
 description: Report a bug about TypeScript types
 title: Please replace with a clear and descriptive title
 labels: [bug]
