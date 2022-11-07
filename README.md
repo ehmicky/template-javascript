@@ -1,8 +1,9 @@
-[![Codecov](https://img.shields.io/codecov/c/github/ehmicky/template-name.svg?label=tested&logo=codecov)](https://codecov.io/gh/ehmicky/template-name)
-[![TypeScript](https://img.shields.io/badge/-typed-brightgreen?logo=typescript&colorA=gray&logoColor=0096ff)](/types/main.d.ts)
-[![Node](https://img.shields.io/node/v/template-name.svg?logo=node.js&logoColor=66cc33)](https://www.npmjs.com/package/template-name)
-[![Twitter](https://img.shields.io/badge/%E2%80%8B-twitter-brightgreen.svg?logo=twitter)](https://twitter.com/intent/follow?screen_name=ehmicky)
-[![Medium](https://img.shields.io/badge/%E2%80%8B-medium-brightgreen.svg?logo=medium)](https://medium.com/@ehmicky)
+[![Node](https://img.shields.io/badge/-Node.js-808080?logo=node.js&colorA=404040&logoColor=66cc33)](https://www.npmjs.com/package/template-name)
+[![Browsers](https://img.shields.io/badge/-Browsers-808080?logo=firefox&colorA=404040)](https://unpkg.com/template-name?module)
+[![TypeScript](https://img.shields.io/badge/-Typed-808080?logo=typescript&colorA=404040&logoColor=0096ff)](/types/main.d.ts)
+[![Codecov](https://img.shields.io/badge/-Tested%20100%25-808080?logo=codecov&colorA=404040)](https://codecov.io/gh/ehmicky/template-name)
+[![Twitter](https://img.shields.io/badge/-Twitter-808080.svg?logo=twitter&colorA=404040)](https://twitter.com/intent/follow?screen_name=ehmicky)
+[![Medium](https://img.shields.io/badge/-Medium-808080.svg?logo=medium&colorA=404040)](https://medium.com/@ehmicky)
 
 template-description.
 
@@ -22,9 +23,17 @@ import templateName from 'template-name'
 npm install template-name
 ```
 
-This package is an ES module and must be loaded using
+This package works in both Node.js >=14.18.0 and browsers. It is an ES module
+and must be loaded using
 [an `import` or `import()` statement](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c),
 not `require()`.
+
+<!--
+This package works in Node.js >=14.18.0. It is an ES module and must be loaded
+using
+[an `import` or `import()` statement](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c),
+not `require()`.
+-->
 
 # API
 
