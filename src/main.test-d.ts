@@ -1,5 +1,6 @@
-import templateName, { Options } from 'template-name'
 import { expectType, expectAssignable } from 'tsd'
+
+import templateName, { type Options } from 'template-name'
 
 expectType<object>(templateName(true))
 
