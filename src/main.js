@@ -1,3 +1,3 @@
-const main = (value) => value
+const templateName = (value) => value
 
-export default main
+export default templateName
