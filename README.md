@@ -24,6 +24,10 @@ import templateName from 'template-name'
 npm install template-name
 ```
 
+<!--
+This package works in Node.js >=14.18.0.
+-->
+
 This package works in both Node.js >=14.18.0 and
 [browsers](https://raw.githubusercontent.com/ehmicky/dev-tasks/main/src/browserslist).
 
@@ -32,17 +36,6 @@ This is an ES module. It must be loaded using
 not `require()`. If TypeScript is used, it must be configured to
 [output ES modules](https://www.typescriptlang.org/docs/handbook/esm-node.html),
 not CommonJS.
-
-<!--
-This package works in Node.js >=14.18.0.
-
-This is an ES module. It must be loaded
-using
-[an `import` or `import()` statement](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c),
-not `require()`. If TypeScript is used, it must be configured to
-[output ES modules](https://www.typescriptlang.org/docs/handbook/esm-node.html),
-not CommonJS.
--->
 
 # API
 
