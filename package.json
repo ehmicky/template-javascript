@@ -31,7 +31,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@ehmicky/dev-tasks": "^2.0.63"
+    "@ehmicky/dev-tasks": "^2.0.64"
   },
   "engines": {
     "node": ">=14.18.0"
