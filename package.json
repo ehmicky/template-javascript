@@ -21,7 +21,10 @@
   "keywords": [],
   "license": "MIT",
   "homepage": "https://www.github.com/ehmicky/template-name",
-  "repository": "ehmicky/template-name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmicky/template-name.git"
+  },
   "bugs": {
     "url": "https://github.com/ehmicky/template-name/issues"
   },
