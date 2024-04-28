@@ -32,7 +32,6 @@
   "directories": {
     "lib": "src"
   },
-  "dependencies": {},
   "devDependencies": {
     "@ehmicky/dev-tasks": "^2.0.105"
   },
