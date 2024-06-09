@@ -33,7 +33,7 @@
     "lib": "src"
   },
   "devDependencies": {
-    "@ehmicky/dev-tasks": "^2.0.124"
+    "@ehmicky/dev-tasks": "^2.0.125"
   },
   "engines": {
     "node": ">=18.18.0"
