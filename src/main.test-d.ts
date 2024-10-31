@@ -1,4 +1,4 @@
-import { expectType, expectAssignable } from 'tsd'
+import { expectAssignable, expectType } from 'tsd'
 
 import templateName, { type Options } from 'template-name'
 
